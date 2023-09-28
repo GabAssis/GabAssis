@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gabriel de Assis! 👋🏽 Sou um desenvolvedor Full-Stack júnior.
 
 
-#
+
 
 ![AGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabAssis&show_icons=true&theme=radical)
 
