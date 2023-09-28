@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel de Assis! 👋🏽 Sou um desenvolvedor Full-Stack júnior.
+## Olá! Me chamo Gabriel de Assis! 👋🏽 Sou um desenvolvedor Full-Stack júnior.
 
 
 #
